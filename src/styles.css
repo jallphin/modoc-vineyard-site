@@ -649,13 +649,13 @@ h3 {
 .podcast-card {
   background:
     linear-gradient(rgba(63, 81, 70, 0.2), rgba(63, 81, 70, 0.3)),
-    url("https://modocvineyard.church/wp-content/uploads/2023/11/leadership.jpeg") center 74% / cover;
+    url("/assets/leadership.jpeg") center 74% / cover;
 }
 
 .livestream-card {
   background:
     linear-gradient(rgba(144, 72, 63, 0.16), rgba(63, 81, 70, 0.25)),
-    url("https://modocvineyard.church/wp-content/uploads/2023/11/what-to-expect.jpeg") center 48% / cover;
+    url("/assets/what-to-expect.jpeg") center 48% / cover;
 }
 
 .contact-section {
